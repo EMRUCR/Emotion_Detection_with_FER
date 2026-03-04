@@ -1,4 +1,4 @@
 # Emotion_Detection_with_FER
 
-We use the model included in the FER library to detect emotions via webcam. 
-The machine then changes the image based on the real-time emotion detection output.
+We detect emotions via webcam using a model found in the FER library.
+Then, the image changes according to the real-time emotion detection output.
